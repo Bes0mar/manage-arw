@@ -1,2 +1,2 @@
-# manage-arw
-PowerShell script to manage .ARW files
+# manage-raw
+PowerShell script to manage raw files
