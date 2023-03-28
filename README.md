@@ -1,5 +1,5 @@
 # manage-raw
-PowerShell script to manage raw files
+PowerShell script to manage any raw-format files 
 
 # How to
 Just put the script into your photography folder  
